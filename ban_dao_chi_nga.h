@@ -28,7 +28,7 @@ const int resolution = 8;
 
 int Max_L1_UP = 255;
 int Max_L1_DOWN = 255;
-int Max_L2_UP = 250;
+int Max_L2_UP = 255;
 int Max_L2_DOWN = 255;
 bool isCaution = false;
 
